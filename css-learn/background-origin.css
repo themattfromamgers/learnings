@@ -1,0 +1,9 @@
+.origin {
+    border: 10px dashed white;
+    padding: 40px;
+    width: 200px;
+    height: 200px;
+    background-image: url("https://cdn.discordapp.com/attachments/896039315044442184/997991833584021524/Screenshot_2022-07-17-01-17-47-52_572064f74bd5f9fa804b05334aa4f912.jpg"), url('https://cdn.discordapp.com/attachments/978725339272470579/985307335109009448/IMG_2104.jpg');
+    background-repeat: no-repeat, repeat;
+    background-origin: content-box;
+} 

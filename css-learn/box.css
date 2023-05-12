@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.ellisekiz {
+    width: 200px;
+    height: 200px;
+    background-color: turquoise;
+    padding: 15px;
+    border: 10px solid wheat;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(27, 124, 209);
+}
+
+table tr td,
+th {
+    border: 1px solid black;
+}
+
+#cssTest {
+    border: 1px solid black;
+    color: red;
+}
+
+#cssTest:active {
+    color: blue;
+}
+
+#cssTest:hover {
+    color: aqua;
+}
+
+#cssTest:visited {
+    color: bisque;
+}
+
+#cssTest::selection {
+    color: black;
+}

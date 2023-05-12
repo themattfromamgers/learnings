@@ -1,0 +1,31 @@
+/* h1[class="link-secici"] {
+    color: red;
+} */
+
+h1[class|="link"] {
+    color: red;
+}
+
+h1[class^="episode"] {
+    color: blue;
+}
+
+h3[class$="box"] {
+    color: greenyellow;
+}
+
+
+/* h4[class="title"] {
+    color: red;
+} */
+
+.heaaa::after {
+    color: blanchedalmond;
+    content: 'sonraki yazı';
+    background-color: aqua;
+}
+
+.heaaa::before {
+    content: 'xd';
+    background-color: goldenrod;
+}

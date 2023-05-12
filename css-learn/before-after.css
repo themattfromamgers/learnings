@@ -1,0 +1,10 @@
+
+.jea::after {
+    color: white;
+    content: " - after";
+  }
+
+  .jea::before {
+    color: red;
+    content: " - before";
+  }

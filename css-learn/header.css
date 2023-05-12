@@ -1,0 +1,9 @@
+header nav ul {
+    color: red;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    gap: 25px;
+
+
+}

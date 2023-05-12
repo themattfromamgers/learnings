@@ -1,0 +1,12 @@
+.size {
+    width: 500px;
+    height: 200px;
+    padding: 40px;
+    border: 10px dashed white;
+    background-repeat: no-repeat;
+    background-image: url('https://cdn.discordapp.com/attachments/978725339272470579/985307098088894555/babababa.jpg');
+    background-position: center;
+    /* background-origin: border-box; */
+    background-size: cover;
+
+}

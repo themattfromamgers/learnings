@@ -1,0 +1,65 @@
+#c2H {
+    border-style: double;
+    border-width: 10px 20px 30px 40px;
+    border-color: aqua red blue yellow;
+    width: 200px;
+    height: 80px;
+    padding: 0px 50px 10px 20px;
+    margin: 30px;
+    position: fixed;
+}
+
+.kutu {
+    border: 3px solid black;
+    position: fixed;
+    background-color: aqua;
+    height: 100px;
+    width: 150px;
+    z-index: 1;
+}
+
+.kucukkutu {
+    border: 3px solid yellow;
+    position: relative;
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    top: 85px;
+    z-index: 3;
+    border-radius: 5px 10px 5px 10px;
+    overflow: auto;
+    overflow: visible;
+    overflow: scroll;
+    overflow: hidden;
+}
+
+.golge {
+    border: 3px solid yellow;
+    background-color: aqua;
+    margin-top: 100px;
+    box-shadow: 20px 7px 10px rebeccapurple;
+    border-radius: 10px;
+    border-style: dashed;
+}
+
+p {
+    text-indent: 50px;
+    text-align: right;
+    line-height: 1px;
+    font-weight: bolder;
+    font-style: italic;
+    font-variant: small-caps;
+    /* İLK HARFLERİN BAŞI BÜYÜK */
+    text-transform: capitalize;
+    /* büyük küçük */
+    text-decoration: underline;
+    /*ALTI ÇİZGİLİ*/
+    letter-spacing: 1px;
+    /*KELİMELER ARASI*/
+    word-spacing: 2px;
+    /* KELİMELER ARASI BOŞLUK */
+}
+
+ul {
+    list-style-type: circle;
+}

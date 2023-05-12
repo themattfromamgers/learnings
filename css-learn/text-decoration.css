@@ -1,0 +1,12 @@
+.dec {
+    color: blueviolet;
+    margin-bottom: 15px;
+    text-decoration-line: overline;
+    text-decoration-color: lime;
+    text-decoration-style: navy;
+
+}
+
+.dec:last-of-type {
+    text-decoration: none;
+}

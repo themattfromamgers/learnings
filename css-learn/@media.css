@@ -1,0 +1,17 @@
+.medias {
+    background-color: blueviolet;
+}
+
+/* tablet */
+@media(max-width: 760px) {
+    .medias {
+        background-color: green;
+    }
+}
+
+/* telefon */
+@media(max-width: 500px) {
+    .medias {
+        background-color: yellow;
+    }
+}

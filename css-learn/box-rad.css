@@ -1,0 +1,17 @@
+.ellidokuz{
+    width: 300px;
+    height: 300px;
+    border: 10px solid white;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.ellidokuzz{
+    width: 300px;
+    height: 300px;
+    border: 10px solid white;
+    border-radius: 50%;
+}

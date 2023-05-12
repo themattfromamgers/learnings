@@ -1,0 +1,9 @@
+#outline-test {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 50px auto;
+    border: 5px solid brown;
+    outline: 6px solid aqua; /*  DIŞ*/
+    
+}

@@ -1,0 +1,15 @@
+.clip {
+    color: transparent;
+    padding: 30px;
+    border: 20px dashed white;
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    background-color: lime;
+    /* background-clip: text; */
+    /* background-clip: content-box; */
+    background-image: url('https://media.discordapp.net/attachments/978725339272470579/985307370680889424/Remini20210918131745251.jpg');
+    background-position: center;
+    /* background-clip: text; */
+    -webkit-background-clip: text;
+}

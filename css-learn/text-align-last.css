@@ -1,0 +1,9 @@
+
+.last::first-line {
+    text-align: justify;
+}
+
+.last {
+    color: aqua;
+    text-align-last: justify ;
+}

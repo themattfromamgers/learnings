@@ -1,0 +1,15 @@
+
+
+.heading nav ul {
+    background-color: aqua;
+    text-align: center;
+}
+
+
+.heading p span {
+    text-decoration: line-through;
+}
+#ayirma {
+    letter-spacing: 10px;
+    /* word-spacing: 5px; */
+}

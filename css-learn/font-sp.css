@@ -1,0 +1,12 @@
+/* 
+font-size
+font-family
+font-style
+font-variant
+
+*/
+
+.fontsp {
+    color: aliceblue;
+    font: italic bold small-caps 19px/1.7 Arial, sans-serif;
+}

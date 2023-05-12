@@ -1,0 +1,18 @@
+h3>i {
+    color: azure;
+}
+
+h4 em {
+    color: aqua;
+}
+
+h4 {
+    color: yellow;
+}
+
+
+/*2*/
+
+h3+p {
+    color: whitesmoke;
+}
