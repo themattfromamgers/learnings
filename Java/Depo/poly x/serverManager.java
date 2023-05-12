@@ -1,0 +1,6 @@
+//Inheritance
+
+public class serverManager {
+
+
+}
