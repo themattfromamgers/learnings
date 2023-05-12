@@ -1,0 +1,69 @@
+@import 'css-learn/font.css';
+@import 'css-learn/css-grid.css';
+@import 'css-learn/box.css';
+@import 'css-learn/fontVa.css';
+@import 'css-learn/font-sp.css';
+@import 'css-learn/font-spacing.css';
+@import 'css-learn/box-rad.css';
+@import 'css-learn/text-spaces.css';
+@import 'css-learn/@media.css';
+@import 'css-learn/main.css';
+@import 'css-learn/text-align-last.css';
+@import 'css-learn/text-decoration.css';
+@import 'css-learn/text-indent.css';
+@import 'css-learn/white-space.css';
+@import 'css-learn/text-transform.css';
+@import 'css-learn/word-break_overflow-wrap_hyphens.css';
+@import 'css-learn/shadow.css';
+@import 'css-learn/back-images.css';
+@import 'css-learn/background-clip.css';
+@import 'css-learn/background-origin.css';
+@import 'css-learn/background-size.css';
+
+@import 'css-learn/text-styles.css';
+@import 'css-learn/qualilty.css';
+@import 'css-learn/photo-settings.css';
+@import 'css-learn/link-styles.css';
+@import 'css-learn/link-selector.css';
+@import 'css-learn/box-styles.css';
+@import 'css-learn/before-after.css';
+@import 'css-learn/boxes.css';
+@import 'css-learn/header.css';
+@import 'css-learn/outline.css';
+@import 'css-learn/fontWe.css';
+
+
+
+li {
+    background-color: aqua;
+}
+
+body {
+    background-color: black;
+}
+
+#test {
+    /*opaklık*/
+    opacity: 0.6;
+}
+
+p#test {
+    color: white;
+    font-size: 20px;
+}
+
+p.solid {
+    padding: 50px 30px 50px 80px;
+    color: beige;
+    font-size: 3em;
+    border: 1px solid white;
+    max-width: 250px;
+    max-height: 15px;
+}
+
+h2#test {
+    font-size: 3em;
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
